@@ -1,0 +1,22 @@
+h2 {
+    font-size: 30px;
+    background: radial-gradient(#1231, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: peru;
+}
+
+p {
+    font-style: italic;
+    font-size: 17px;
+    color: #333333;
+}
+
+Nav{
+    width: auto;
+    margin: auto;
+}
+li {
+    height: 42px;
+    margin: auto;
+}
+
